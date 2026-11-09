@@ -11,4 +11,4 @@ It basically installs godot-cpp and the template then compile the src files with
 
 Work in progress.
 
-This project will be implemented inside a Godot plugin for better compatibility and better user experience.
+This project will be implemented inside a Godot plugin soon for better compatibility and better user experience.
