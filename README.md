@@ -8,3 +8,7 @@ Uses godot-cpp template repos for SConstruct gdextension and C++ src files : htt
 
 
 It basically installs godot-cpp and the template then compile the src files with SConstruct inside the selected game project.
+
+Work in progress.
+
+This project will be implemented inside a Godot plugin for better compatibility and better user experience.
